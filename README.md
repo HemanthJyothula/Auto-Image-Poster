@@ -5,8 +5,8 @@ Automation script for sending a batch of images in Discord via webhook
 Wanted to send a batch of png images one by one to a specific discord channel, this task kind of became tedious and hence the script
 
 ## Modules used
-*glob - Default Module
-*[Discord Webhook](https://pypi.org/project/discord-webhook/#basic-webhook)
+* glob - Default Module
+* [Discord Webhook](https://pypi.org/project/discord-webhook/#basic-webhook)
 
 ## Usage
 * Place the script in to the desired directory where the images are located. 
